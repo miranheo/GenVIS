@@ -9,7 +9,7 @@
 </div><br/>
 
 ## Updates
-* **`Jan 16, 2023`:** Code is now available!
+* **`Jan 20, 2023`:** Code is now available!
 
 ## Installation
 GenVIS is built upon VITA.
