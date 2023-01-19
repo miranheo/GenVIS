@@ -6,6 +6,8 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/24949098/212600182-90721a1e-aa4c-452c-86ed-ab1149a16b8f.gif"  width="30%"/>
   <img src="https://user-images.githubusercontent.com/24949098/212599620-082b9604-49f1-4f21-bf8e-01885cd38e82.gif"  width="30%"/>
+
+  <img src="https://user-images.githubusercontent.com/24949098/213493785-27312f33-dbae-4d44-8036-69e597366ab9.gif"  width="60%"/>
 </div><br/>
 
 ## Updates
