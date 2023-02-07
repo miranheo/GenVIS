@@ -46,8 +46,8 @@ python train_net_genvis.py --num-gpus 4 \
 | :---: | :---: | :--: | :---: | :---: | :---: | :---: | :---: |
 | R-50 | online | 50.0 | 71.5 | 54.6 | 49.5 | 59.7 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EbxTvAZ_o0dHiUBaw1CYM7cB8pZqFP5Sf7E3LCYyrXNIZw?e=cYAZBt) |
 | R-50 | semi-online | 51.3 | 72.0 | 57.8 | 49.5 | 60.0 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EQn84SkT22NHn5K2EIfLQsMBy6keLAlIAD8Bhq5zsEKj1Q?e=MRANHG) |
-| Swin-L | online | 64.0 | 84.9 | 68.3 | 56.1 | 69.4 | ~~[model]()~~ |
-| Swin-L | semi-online | 63.8 | 85.7 | 68.5 | 56.3 | 68.4 | ~~[model]()~~ |
+| Swin-L | online | 64.0 | 84.9 | 68.3 | 56.1 | 69.4 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EWWtxwxuQ3tAuixVcZCPf9YB9kdE2JjF554RGEy0OyepVA?e=gEhMJo) |
+| Swin-L | semi-online | 63.8 | 85.7 | 68.5 | 56.3 | 68.4 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/Ecb9sr84mcJPl2hxiEYrF2gBnMKiHFvS-pcKJdUgAG67Wg?e=tuhLa7) |
 
 ### YouTubeVIS-2021
 | Backbone | Method | AP | AP50 | AP75| AR1 | AR10 | Download |
