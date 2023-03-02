@@ -1,5 +1,5 @@
-# A Generalized Framework for Video Instance Segmentation
-[Miran Heo](https://sites.google.com/view/miranheo), [Sukjun Hwang](https://sukjunhwang.github.io), Jeongseok Hyun, Hanjung Kim, [Seoung Wug Oh](https://sites.google.com/view/seoungwugoh), [Joon-Young Lee](https://joonyoung-cv.github.io), [Seon Joo Kim](https://sites.google.com/site/seonjookim/home)
+# A Generalized Framework for Video Instance Segmentation (CVPR 2023)
+[Miran Heo](https://sites.google.com/view/miranheo), [Sukjun Hwang](https://sukjunhwang.github.io), [Jeongseok Hyun](https://sites.google.com/view/jshyun/home), Hanjung Kim, [Seoung Wug Oh](https://sites.google.com/view/seoungwugoh), [Joon-Young Lee](https://joonyoung-cv.github.io), [Seon Joo Kim](https://sites.google.com/site/seonjookim/home)
 
 [[`arXiv`](https://arxiv.org/abs/2211.08834)] [[`BibTeX`](#CitingGenVIS)]
 
@@ -11,6 +11,7 @@
 </div><br/>
 
 ## Updates
+* **`Feb 28, 2023`:** GenVIS is accepted to CVPR 2023!
 * **`Jan 20, 2023`:** Code is now available!
 
 ## Installation
