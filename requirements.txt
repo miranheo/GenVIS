@@ -4,5 +4,5 @@ shapely
 timm
 h5py
 submitit
-scikit-image
+scikit-image==1.8.4
 setuptools==59.4.0
