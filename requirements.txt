@@ -1,8 +1,8 @@
 cython
 scipy
-shapely
+shapely==1.8.4
 timm
 h5py
 submitit
-scikit-image==1.8.4
+scikit-image
 setuptools==59.4.0
