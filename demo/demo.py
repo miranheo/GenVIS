@@ -25,11 +25,8 @@ from detectron2.utils.logger import setup_logger
 
 from mask2former import add_maskformer2_config
 from vita import add_vita_config
+from genvis import add_genvis_config
 from predictor import VisualizationDemo
-
-
-# constants
-WINDOW_NAME = "vita video demo"
 
 
 def setup_cfg(args):
@@ -38,6 +35,7 @@ def setup_cfg(args):
     add_deeplab_config(cfg)
     add_maskformer2_config(cfg)
     add_vita_config(cfg)
+    add_genvis_config(cfg)
     cfg.merge_from_file(args.config_file)
     cfg.merge_from_list(args.opts)
     cfg.freeze()
@@ -45,10 +43,10 @@ def setup_cfg(args):
 
 
 def get_parser():
-    parser = argparse.ArgumentParser(description="vita demo for builtin configs")
+    parser = argparse.ArgumentParser(description="genvis demo for builtin configs")
     parser.add_argument(
         "--config-file",
-        default="configs/youtubevis_2019/vita_R50_bs8.yaml",
+        default="configs/genvis/youtubevis_2019/genvis_R50_bs8_online.yaml",
         metavar="FILE",
         help="path to config file",
     )
