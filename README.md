@@ -64,7 +64,7 @@ python train_net_genvis.py --num-gpus 4 \
 | R-50 | online | 35.8 | 60.8 | 36.2 | 16.3 | 39.6 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EaoKJ6bj99xFgv30nz0QOJkB0usiAnwpPmeoavUqLZeTxw?e=dCHOax) |
 | R-50 | semi-online | 34.5 | 59.4 | 35.0 | 16.6 | 38.3 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/ESU6iD7LX4hPv_UAIFiBCmUB2PHcH7rrUtfp0qYndZ3Y2g?e=Zst877) |
 | Swin-L | online | 45.2 | 69.1 | 48.4 | 19.1 | 48.6 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EfAYQjnt0AFKrFN2wpE6Ei8B-Nn7nRpSUWkaHyhOn4H-Gg?e=uMuuWN) |
-| Swin-L | semi-online | 45.4 | 69.2 | 47.8 | 18.9 | 49.0 | ~~[model]()~~ |
+| Swin-L | semi-online | 45.4 | 69.2 | 47.8 | 18.9 | 49.0 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EV4HRAHBnZdOjuW9p0FSb1wBOK79Dqq3DGJcfOof7Xi2ZA?e=eb5FA3) |
 
 ## License
 The majority of GenVIS is licensed under a
