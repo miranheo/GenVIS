@@ -53,7 +53,7 @@ python train_net_genvis.py --num-gpus 4 \
 ### YouTubeVIS-2021
 | Backbone | Method | AP | AP50 | AP75| AR1 | AR10 | Download |
 | :---: | :---: | :--: | :---: | :---: | :---: | :---: | :---: |
-| R-50 | online | 47.1 | 67.5 | 51.5 | 41.6 | 54.7 | ~~[model]()~~ |
+| R-50 | online | 47.1 | 67.5 | 51.5 | 41.6 | 54.7 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/EYSdkV0C-cxMlDr54iv4_IsBtN76_JcqyyilWHfWXmNKcg?e=1OnZcG) |
 | R-50 | semi-online | 46.3 | 67.0 | 50.2 | 40.6 | 53.2 | [model](https://yonsei-my.sharepoint.com/:u:/g/personal/miran_o365_yonsei_ac_kr/ERTULYUDogZKqf2PFXH56SMBmgX3sVGh489_qFQMIduYVw?e=qDZogy) |
 | Swin-L | online | 59.6 | 80.9 | 65.8 | 48.7 | 65.0 | ~~[model]()~~ |
 | Swin-L | semi-online | 60.1 | 80.9 | 66.5 | 49.1 | 64.7 | ~~[model]()~~ |
@@ -79,8 +79,8 @@ If you use GenVIS in your research or wish to refer to the baseline results publ
 @inproceedings{GenVIS,
   title={A Generalized Framework for Video Instance Segmentation},
   author={Heo, Miran and Hwang, Sukjun and Hyun, Jeongseok and Kim, Hanjung and Oh, Seoung Wug and Lee, Joon-Young and Kim, Seon Joo},
-  booktitle={arXiv preprint arXiv:2211.08834},
-  year={2022}
+  booktitle={CVPR},
+  year={2023}
 }
 
 @inproceedings{VITA,
